@@ -15,8 +15,8 @@ git config --global user.email "$INPUT_USER_EMAIL"
 # install hexo env
 npm install hexo-cli -g
 npm install hexo-deployer-git --save
-npm install -g increase-memory-limit
-increase-memory-limit
+# npm install -g increase-memory-limit
+# increase-memory-limit
 export NODE_OPTIONS="--max_old_space_size=8192"
 
 # deployment
