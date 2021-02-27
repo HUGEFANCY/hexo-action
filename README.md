@@ -1,3 +1,6 @@
+This is a fork of https://github.com/sma11black/hexo-action.
+THis fork gives allows for more memory during `hexo generate`in order to make it possible to deploy pages with more than 1000 pages via github actions.
+
 # GitHub Action - Hexo CI/CD 🌱
 
 <a href="https://github.com/marketplace/actions/hexo-action"><img alt="View Action" src="https://img.shields.io/badge/action-marketplace-blue.svg?logo=github&color=orange"></a>
